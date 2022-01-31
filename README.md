@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 [![LinkedIn | align="left" alt="LinkedIn"](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][Linkedin]
 
 
-<br />
 
 ### 🧑‍💻 Langauges 
 [![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)][html]
@@ -42,7 +41,10 @@ Here are some ideas to get you started:
 [![expressjs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)][Expressjs]
 
 
+### 🗃️ Databases
 
+[![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)][mongodb]
+[![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)][mysql]
 
 ### ⚒️Tools
 [![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)][Git]
@@ -50,8 +52,10 @@ Here are some ideas to get you started:
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)][npm]
 [![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)][firebase]
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 
+### 🧠 IDE's used
+[![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)][vscode]
+[![Sublime](https://img.shields.io/badge/-SUBLIME%20TEXT-orange)][sublime]
 
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][GitHub]
@@ -75,3 +79,6 @@ Here are some ideas to get you started:
 [Expressjs]:https://expressjs.com/
 [npm]:https://www.npmjs.com/
 [firebase]:https://firebase.google.com/
+[mongodb]:https://asamedwalker.github.io/MastermindGame/
+[mysql]:https://asamedwalker.github.io/MastermindGame/
+[sublime]:https://www.sublimetext.com/
