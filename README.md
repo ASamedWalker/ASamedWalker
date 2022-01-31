@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jscript]
 
 
 [twitter]: https://twitter.com/GrassRoots_Dev
@@ -39,4 +39,5 @@ Here are some ideas to get you started:
 [vscode]:https://code.visualstudio.com/
 [html]:https://developer.mozilla.org/en-US/docs/Web/HTML
 [css]:https://developer.mozilla.org/en-US/docs/Web/CSS
+[jscript]:https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
