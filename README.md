@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Samed - aka [GrassRootsDev][website]
+### Hi there, I'm Samed - aka [GrassRootsDev][website]👋
 
 I'm driven everyday exploring the world of software development.
 
@@ -16,14 +16,17 @@ I'm driven everyday exploring the world of software development.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
 -->
 
-### Connect with me:
+### 🤝 Connect with me:
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][Twitter]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][Linkedin]
+
 
 <br />
 
@@ -39,6 +42,9 @@ Here are some ideas to get you started:
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][Terminal]
 
 
+
+
+[website]:https://asamedwalker.github.io/grassrootsdev-homepage/
 [twitter]: https://twitter.com/GrassRoots_Dev
 [linkedIn]:https://www.linkedin.com/in/abdulsamed-walker/
 [vscode]:https://code.visualstudio.com/
