@@ -32,6 +32,11 @@ Here are some ideas to get you started:
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jscript]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactjs]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][Nodejs]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][GitHub]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][Terminal]
 
 
 [twitter]: https://twitter.com/GrassRoots_Dev
@@ -40,4 +45,8 @@ Here are some ideas to get you started:
 [html]:https://developer.mozilla.org/en-US/docs/Web/HTML
 [css]:https://developer.mozilla.org/en-US/docs/Web/CSS
 [jscript]:https://developer.mozilla.org/en-US/docs/Web/JavaScript
-
+[reactjs]:https://reactjs.org/
+[Nodejs]:https://nodejs.org/en/
+[Git]:https://git-scm.com/
+[GitHub]:https://github.com/ASamedWalker
+[Terminal]:https://docs.microsoft.com/en-us/windows/terminal/
