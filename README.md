@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 ### 💻 Workspace
 [![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)][mongodb]
 [![hp laptop](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white)][mongodb]
-[![MacBook](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white)][mongodb]
+[![MacBook](https://img.shields.io/badge/MacBook%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white)][mongodb]
 
 
 
