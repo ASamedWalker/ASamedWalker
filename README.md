@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 [![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)][html]
 [![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)][css]
 [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)][jscript]
+[![python](https://img.shields.io/badge/python-python-brightgreen?style=for-the-badge&logo=python&logoColor=brightgreen)][jscript]
 
 
 ### 🧩Framework/Libraries
