@@ -1,12 +1,12 @@
 ### Hi there, I'm Samed - aka [GrassRootsDev][website]👋
 
-I'm driven every day to explore the world of software development.
+I'm driven daily to explore the world of Data Engineering/ML.
 
 ### About Me
 
-- 🌱 I’m currently learning everything MERN Stack.
+- 🌱 I’m currently learning everything in Data Engineering/ML.
 - 👯 I’m looking to collaborate with other passionate developers.
-- 💬 Ask me about **Data** [here](https://www.linkedin.com/in/abdulsamed-walker/)
+- 💬 Ask me about **Data Engineer/ML** [here](https://www.linkedin.com/in/abdulsamed-walker/)
 - ⚡ Fun fact: I love playing soccer
 - 📫 How to reach me: https://www.linkedin.com/in/abdulsamed-walker/
 
