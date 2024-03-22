@@ -1,11 +1,11 @@
 ### Hi there, I'm Samed - aka [GrassRootsDev][website]👋
 
-I'm driven everyday exploring the world of software development.
+I'm driven every day to explore the world of software development.
 
 ### About Me
 
 - 🌱 I’m currently learning everything MERN Stack.
-- 👯 I’m looking to collaborate on with other passionate developers.
+- 👯 I’m looking to collaborate with other passionate developers.
 - 💬 Ask me about **web dev** [here](https://www.linkedin.com/in/abdulsamed-walker/)
 - ⚡ Fun fact: I love playing soccer
 - 📫 How to reach me: https://www.linkedin.com/in/abdulsamed-walker/
